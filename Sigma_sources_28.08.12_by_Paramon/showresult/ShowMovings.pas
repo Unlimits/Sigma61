@@ -2188,7 +2188,7 @@ END;
 
 PROCEDURE TShowMovingsForm.RePaintPlate(Sender: TObject);
 BEGIN
-  DoubleBuffered:=false;
+  if UseBuffer.Checked then DoubleBuffered:=true else DoubleBuffered:=false;
   MainRePaint;
 END;
 
