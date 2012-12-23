@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/12/trunc/source/editor
+END
+cur.res
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/12/trunc/source/editor/cur.res
+END
+untLoadPset.pas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunc/source/editor/untLoadPset.pas
+END
+Unit10.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit10.dfm
+END
+SetForm.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/SetForm.ddp
+END
+Unit11.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit11.dfm
+END
+log.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/12/trunc/source/editor/log.dfm
+END
+Unit12.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit12.dfm
+END
+MainInterface.pas
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunc/source/editor/MainInterface.pas
+END
+Unit13.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit13.dfm
+END
+untLoadPset.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunc/source/editor/untLoadPset.dfm
+END
+FormEditor.dof
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunc/source/editor/FormEditor.dof
+END
+Prnserv.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/Prnserv.pas
+END
+Unit2.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit2.pas
+END
+Unit3.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit3.pas
+END
+Unit4.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit4.pas
+END
+Unit5.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit5.pas
+END
+MainParam.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunc/source/editor/MainParam.pas
+END
+Unit6.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit6.pas
+END
+Unit7.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit7.pas
+END
+Unit8.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit8.pas
+END
+Unit9.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit9.pas
+END
+TSigmaForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunc/source/editor/TSigmaForm.pas
+END
+FStruct.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/FStruct.ddp
+END
+SetForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/SetForm.pas
+END
+Prnserv.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/Prnserv.dfm
+END
+Unit2.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit2.dfm
+END
+Unit3.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit3.dfm
+END
+Unit4.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit4.dfm
+END
+FormEditor.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunc/source/editor/FormEditor.cfg
+END
+Unit5.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit5.dfm
+END
+MainParam.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunc/source/editor/MainParam.dfm
+END
+Unit6.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit6.dfm
+END
+Unit7.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit7.dfm
+END
+Unit8.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit8.dfm
+END
+Unit9.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit9.dfm
+END
+SetForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/SetForm.dfm
+END
+Unit10.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit10.ddp
+END
+Unit11.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit11.ddp
+END
+Unit12.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit12.ddp
+END
+Unit13.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit13.ddp
+END
+FormEditor.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunc/source/editor/FormEditor.dpr
+END
+strfunc.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/strfunc.pas
+END
+untLoadPset.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunc/source/editor/untLoadPset.ddp
+END
+FStruct.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/FStruct.pas
+END
+MainParam.pas.bak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunc/source/editor/MainParam.pas.bak
+END
+GrafX.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/GrafX.pas
+END
+SetForm.pas.bak
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunc/source/editor/SetForm.pas.bak
+END
+FStruct.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunc/source/editor/FStruct.dfm
+END
+FormEditor.res
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunc/source/editor/FormEditor.res
+END
+Unit10.pas
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit10.pas
+END
+Unit11.pas
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit11.pas
+END
+log.pas
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/12/trunc/source/editor/log.pas
+END
+Unit12.pas
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit12.pas
+END
+Unit13.pas
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunc/source/editor/Unit13.pas
+END
+Unit2.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit2.ddp
+END
+Unit3.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit3.ddp
+END
+_MainParam.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunc/source/editor/_MainParam.dfm
+END
+Unit4.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit4.ddp
+END
+Unit5.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit5.ddp
+END
+Unit6.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit6.ddp
+END
+MainParam.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunc/source/editor/MainParam.ddp
+END
+GrafX.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/GrafX.dfm
+END
+Unit7.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit7.ddp
+END
+Unit8.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit8.ddp
+END
+Unit9.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunc/source/editor/Unit9.ddp
+END
