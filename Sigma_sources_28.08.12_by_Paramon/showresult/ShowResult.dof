@@ -90,8 +90,8 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=E:\SIGMA\SIGMA\bin
-UnitOutputDir=E:\SIGMA\SIGMA\bin\dcu
+OutputDir=..\bin
+UnitOutputDir=..\bin\dcu
 PackageDLLOutputDir=
 PackageDCPOutputDir=
 SearchPath=
@@ -101,7 +101,7 @@ DebugSourceDirs=..\bin\dcu
 UsePackages=0
 [Parameters]
 RunParams=
-HostApplication=C:\Users\Tim\DelphiProjects\Sigma\bin\Sigma32.exe
+HostApplication=C:\Users\Sun\Documents\GitHub\Sigma61\Sigma_sources_28.08.12_by_Paramon\bin\Sigma32.exe
 Launcher=
 UseLauncher=0
 DebugCWD=
@@ -163,8 +163,8 @@ Item8=C:\Sigma\_sigma_project\5.0\bin\shit\
 Item9=D:\Bokov\5.0\bin\shit\
 [HistoryLists\hlUnitOutputDirectory]
 Count=10
-Item0=E:\SIGMA\SIGMA\bin\dcu
-Item1=..\bin\dcu
+Item0=..\bin\dcu
+Item1=E:\SIGMA\SIGMA\bin\dcu
 Item2=C:\Sigma sources 16-01-2011\Rupert\shit
 Item3=C:\Documents and Settings\Игорь\Рабочий стол\Rappert_Algoritm_122010\RupertAlg\shit
 Item4=shit
@@ -175,8 +175,8 @@ Item8=C:\Sigma\_sigma_project\5.0\bin\shit
 Item9=D:\Bokov\5.0\bin\shit
 [HistoryLists\hlOutputDirectorry]
 Count=14
-Item0=E:\SIGMA\SIGMA\bin
-Item1=..\bin
+Item0=..\bin
+Item1=E:\SIGMA\SIGMA\bin
 Item2=C:\Sigma sources 16-01-2011\source\bin
 Item3=C:\Sigma sources 16-01-2011\Rupert\bin
 Item4=C:\Documents and Settings\Игорь\Рабочий стол\Rappert_Algoritm_122010\RupertAlg\bin

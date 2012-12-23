@@ -26,8 +26,6 @@ uses
 
 {$E plg}
 {$R *.RES}
-{$LIBSUFFIX '_Stekolin'}
-
 const
      PluginName='Графическое отображение результатов расчета';
 var
