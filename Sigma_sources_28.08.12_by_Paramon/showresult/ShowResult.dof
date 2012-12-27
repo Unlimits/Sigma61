@@ -101,7 +101,7 @@ DebugSourceDirs=..\bin\dcu
 UsePackages=0
 [Parameters]
 RunParams=
-HostApplication=C:\Users\Sun\Documents\GitHub\Sigma61\Sigma_sources_28.08.12_by_Paramon\bin\Sigma32.exe
+HostApplication=C:\Delphi_prj\Sigma61\Sigma_sources_28.08.12_by_Paramon\bin\Sigma32.exe
 Launcher=
 UseLauncher=0
 DebugCWD=

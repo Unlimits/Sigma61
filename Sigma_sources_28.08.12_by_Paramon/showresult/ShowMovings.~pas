@@ -194,6 +194,7 @@ TYPE
     Label29: TLabel;
     CheckBox2: TCheckBox;
     ZoneCheckBox: TCheckBox;
+    SettingsPanel: TPanel;
     PROCEDURE FormCreate(Sender: TObject);
     PROCEDURE FormDestroy(Sender: TObject);
     PROCEDURE FormResize(Sender: TObject);
